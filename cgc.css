@@ -1,0 +1,148 @@
+﻿a:link, a:visited {color: #009;}
+a:hover, a:active, a:focus {color: #A00;}
+
+body {
+	background-color: #efefff;
+	text-align:center;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 0.8rem;
+   line-height: 1.25;
+	color: #000;
+}
+
+#page {
+	width:960px;
+	margin:0 auto;
+	text-align:center;
+   background-color: #abccff;
+}
+
+#page .col {
+   float:left;
+}
+
+#page .col-l {
+   width:18%;
+   padding:0 1%;
+}
+
+#page .col-r {
+   width:80%;
+   background-color: #efefff;
+}
+
+#page p.bottom {
+   clear:both;
+   background-color:#efefff;
+}
+
+.left {
+   text-align: left;
+   padding: 0 1em;
+   min-height:360px;
+}
+
+h1,h2,h3,h4,h5 { margin:0; }
+
+h1 {
+   font-family:"Bookman Old Style";
+   font-weight:normal;
+   color:#005500;
+   font-size:36px;
+   line-height:40px;
+}
+
+h2 {
+   font-size: 20px;
+   line-height: 24px;
+	font-family:"Monotype Corsiva";
+   color:#005500;
+	font-weight:bold;
+}
+
+h3 {
+   font-size: 18px;
+   line-height: 22px;
+	font-family:"Monotype Corsiva";
+   color:#005500;
+	font-weight:bold;
+}
+
+h4 {
+   font-size: 16px;
+   line-height:20px;
+   font-family:Verdana, 'Geneva', 'Tahoma', sans-serif;
+   font-style:italic;
+	font-weight:bold;
+}
+
+h5 {
+   font-size: 16px;
+   line-height:20px;
+	font-family:"Monotype Corsiva";
+   color:#005500;
+   font-style:italic;
+	font-weight:bold;
+}
+
+strong {
+   font-family: "Times New Roman", Times, serif;
+   font-size:24px;
+   text-align:center;
+   font-weight:normal;
+   padding:2em;
+   display:block;
+}
+
+.index {
+   text-align: left;
+   padding-left: 3.5em;
+   padding-right: 3.5em;
+}
+
+#cgc_mast {
+   width:150px;
+   border-top:2px black solid;
+   border-bottom:2px black solid;
+}
+
+#topmenu {
+   background-color: #abccff;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #333333;
+	font-size: 14px;
+	line-height:16px;
+}
+#topmenu a {text-decoration: none;}
+
+#sidemenu	{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #333333;
+	font-size:8pt;
+	text-decoration: none;
+}
+#sidemenu a {text-decoration: none;}
+#sidemenu ul {
+	margin-left:0;
+	text-align:center;
+	border-top:1px solid #b5b5b5;
+	list-style:none;
+	padding:0;
+}
+#sidemenu li {
+	padding:6px;
+	border-bottom: 1px solid #b5b5b5;
+}
+
+#sidemenu .yt {
+   display:block;
+   float:right;
+   clear:both;
+}
+
+#sidemenu .yt img {
+   width:65px;
+   height:27px
+}
