@@ -146,3 +146,19 @@ strong {
    width:65px;
    height:27px
 }
+
+dl#schedule {
+   margin:0;
+}
+dl#schedule dt {
+   float: left;
+   clear: both;
+   width: 30%;
+   text-align: right;
+}
+dl#schedule dd {
+   float: left;
+   width: 60%;
+   margin: 0 5%;
+   text-align: left;
+}
