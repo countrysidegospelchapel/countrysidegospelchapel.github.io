@@ -147,16 +147,16 @@ strong {
    height:27px
 }
 
-dl#schedule {
+#schedule {
    margin:0;
 }
-dl#schedule dt {
+#schedule dt {
    float: left;
    clear: both;
    width: 30%;
    text-align: right;
 }
-dl#schedule dd {
+#schedule dd {
    float: left;
    width: 60%;
    margin: 0 5%;
